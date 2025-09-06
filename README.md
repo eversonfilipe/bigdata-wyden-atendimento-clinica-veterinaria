@@ -46,7 +46,7 @@ O que demonstrar na banca e por quê:
 ## Equipe e responsabilidades
 - Éverson Filipe Campos da Silva Moura: coordenação da documentação e produto.
 - Kaiky Cabral: concepção do domínio, definição de requisitos e validação clínica conceitual.
-- Junior: desenvolvimento de infra e orquestração do ambiente de demonstração.
+- José Emerson: desenvolvimento de infra e orquestração do ambiente de demonstração.
 - Vinicius Brito: pipeline de processamento de dados e análise.
 
 Cada membro é responsável por manter a evidência atualizada relativa à sua área antes do ensaio final.
